@@ -1,0 +1,7 @@
+.box {
+    border: 2px solid #e63946;  /* Couleur de la bordure */
+    padding: 20px;              /* Espace entre la bordure et le contenu */
+    border-radius: 8px;         /* Coins arrondis */
+    background-color: transparent; /* Fond transparent pour garder la couleur de fond */
+    margin-bottom: 20px;        /* Espacement sous la section */
+}
